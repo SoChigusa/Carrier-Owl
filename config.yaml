@@ -1,15 +1,8 @@
 # arxivの学問領域の指定
-subject: cat:cs.* OR cat:hep-ph
-#OR cat:hep-th OR cat:hep-ex OR cat:astro-ph.CO OR cond-mat.str-el OR cond-mat.mes-hall OR cond-mat.other'
+subject: cat:hep-ph OR cat:hep-th OR cat:hep-ex OR cat:astro-ph.CO OR cond-mat.str-el OR cond-mat.mes-hall OR cond-mat.other
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-        crack detection: 2
-        drone: 2
-        finger pointing: 2
         light dark matter: 5
         phonon: 5
         magnon: 5
