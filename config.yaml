@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:hep-ph OR cat:hep-th OR cat:hep-ex OR cat:astro-ph.CO OR cond-mat.str-el OR cond-mat.mes-hall OR cond-mat.other'
+subject: 'cat:hep-ph' OR 'cat:hep-th' OR 'cat:hep-ex' OR 'cat:astro-ph.CO' OR 'cond-mat.str-el' OR 'cond-mat.mes-hall' OR 'cond-mat.other'
 
 # 検索キーワード
 keywords:
