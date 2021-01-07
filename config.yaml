@@ -4,9 +4,9 @@ subject: cat:hep-ph OR cat:hep-th OR cat:hep-ex OR cat:astro-ph.CO OR cond-mat.s
 # 検索キーワード
 keywords:
         light dark matter: 5
-        phonon: 5
-        magnon: 5
-        polariton: 5
+        phonon: 2
+        magnon: 2
+        polariton: 2
         vacuum stability: 3
         vacuum decay: 3
         birefringence: 2
