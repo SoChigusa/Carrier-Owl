@@ -4,11 +4,12 @@ subject: cat:hep-ph OR cat:hep-th OR cat:hep-ex OR cat:astro-ph.CO OR cond-mat.s
 # 検索キーワード
 keywords:
         light dark matter: 5
+        vacuum stability: 3
+        vacuum decay: 3
+        topological: 3
         phonon: 2
         magnon: 2
         polariton: 2
-        vacuum stability: 3
-        vacuum decay: 3
         birefringence: 2
         grand unification: 2
         unified theory: 2
